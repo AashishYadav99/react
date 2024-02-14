@@ -1,9 +1,11 @@
+
+import './index.css';
 function Photo() {
 
     return (<div>
-        <form action="">
+        <form action="" >
         <label htmlFor="">Name</label>
-        <input type="text" />
+        <input type="text" /> <br/><br/><br/><br/>
         <label htmlFor="">password</label>
         <input type="password" />
 

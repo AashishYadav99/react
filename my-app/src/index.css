@@ -6,8 +6,17 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  
 
 }
 h2{
   background-color: rgb(135, 148, 148);
+  border: #860b0b;
+  border-radius: 10px;
+  /* border-width: 10px; */
+  text-align: center;
+  border-color: #834609;
+  border-style: dotted;
+
 }
+
